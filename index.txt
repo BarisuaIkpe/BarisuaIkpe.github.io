@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+    <head><link rel="stylesheet" href="styles.css"></head>
+<body>
+    <h1 style= font-size:50px>Barisua (Barry) Ikpe</h1>
+    <div id="top">
+        <div class="top_element"><a href="mailto:kadehbikpe@gmail.com">kadehbikpe@gmail.com</a></div>
+        <div class="top_element"><p>(443)-805-9096</p></div>
+        <div class="top_element"><p> Baltimore, MD</p></div>
+        <div class="top_element"><a href="https://www.linkedin.com/in/kadeh-ikpe/">LinkedIn</a></div>
+    </div>
+    
+    <p style= font-size:20px id="objective">Seeking an entry-level position in the field of computer science & information technology with
+        a company that encourages growth and innovation while enabling me the opportunity
+        to develop my knowledge and skills.</p>
+    
+    <div id="tech_skills">
+    <h2>TECHNICAL SKILLS</h2>
+    <hr class="solid">
+    <h3>Languages:</h3>
+    <ul>
+        <li>Java</li>
+        <li>Kotlin</li>
+        <li>Angular</li>
+        <li>ReactJS</li>
+        <li>HTML, CSS, & JavaScript</li>
+        <li>C++</li>
+        <li>Python</li>
+    </ul>
+    <h3>Tools & Software:</h3>
+    <ul>
+        <li>Android Studio</li>
+        <li>Visual Studio Code</li>
+        <li>IntelliJ</li>
+        <li>NodeJS</li>
+        <li>Git</li>
+        <li>Firebase</li>
+    </ul>
+    <p style=font-size:20px><strong>Operating Systems: </strong> Windows & Linux</p>
+    </div>
+
+    <br>
+
+    <div id="projects">
+    <h2>PROJECTS</h2>
+    <hr class="solid">
+    <h3>YourChoice - Creator & Developer</h3>
+    <ul>
+        <li>Designed idea & Developed web application with REACTJS</li>
+        <li>Implemented Google APIs and hosted with Firebase</li>
+        <a href="https://yourchoice-cosc484.web.app/">Visit YourChoice</a>
+    </ul>
+    <h3>Touch of Joyy Database User Interface - Lead Developer</h3>
+    <ul>
+        <li>Completed documentation & designed all GUI pages</li>
+        <li>Connected to a database, executed queries, updated & stored data</li>
+    </ul>
+    <h3>Student Scheduler Application - Developer</h3>
+    <ul>
+        <li>Planned requirements, designed UI pages, & implemented database through MySQL</li>
+        <li>Built with Android Studio and programmed with Kotlin</li>
+    </ul>
+    <h3>School Management Application - Developer</h3>
+    <ul>
+        <li>Completed documentation along with Agile Methodologies</li>
+        <li>Built with Angular and hosted with Vercel</li>
+    </ul>
+    </div>
+    
+    <br>
+
+    <div id="edu">
+    <h2>EDUCATION</h2>
+    <hr class="solid">
+    <h4>Bachelor of Science(B.S) - Computer Science</h4>
+    <p>May 2023</p>
+    <p>Towson University, Towson, MD</p>
+    <p>3.27 GPA</p>
+    <p>Member of The National Society of Collegiate Scholars</p>
+    <p>Member of Sisters Scripters</p>
+    </div>
+
+    <br>
+
+    <div id="work">
+    <h2>WORK HISTORY</h2>
+    <hr class="solid">
+    <h3>Student Administrator & Manager</h3>
+    <p>October 2019-Present</p>
+    <p>Blackboard</p>
+    <p>Towson, MD</p>
+    <ul>
+        <li>Assist faculty, staff, and students with Blackboard related questions via ticketing system</li>
+        <li>Create documentation and other support materials to support Blackboard users</li>
+        <li>Provided support in-person, phone, and online training for all Towson University
+            Blackboard users</li>
+    </ul>
+    <h3>Tech Sales Consultant</h3>
+    <p>June 2020-August 2020</p>
+    <p>Target - Marketplace</p>
+    <p>White Marsh, MD</p>
+    <ul>
+        <li>Maintain knowledge of tech products such as televisions, mobile devices, tech
+            accessories, and networking</li>
+        <li>Provide personalized tech solutions through guest engagement, product training, demo
+            events, and active consulting</li>
+    </ul>
+    </div>
+
+</body>
+</html>
